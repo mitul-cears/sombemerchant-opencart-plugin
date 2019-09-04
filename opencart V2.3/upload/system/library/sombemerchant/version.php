@@ -1,0 +1,5 @@
+<?php
+
+define('SOMBEMERCHANT_OPENCART_EXTENSION_VERSION', 1.0);
+
+?>
